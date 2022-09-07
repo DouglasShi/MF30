@@ -1,0 +1,23 @@
+img {
+    height: 400px;
+    width: 400px;
+}
+
+a {
+    display: block;
+    width: 100%;
+}
+
+.Link-to-studio {
+    color : orange;
+}
+
+.fun {
+    width: 300px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+
+    padding: 10px;
+    border: 1px solid black;
+}
